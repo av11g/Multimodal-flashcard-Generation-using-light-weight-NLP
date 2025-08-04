@@ -1,0 +1,37 @@
+Question,Answer
+What is Computer science course?,"Computer science course notes
+Computer science is the study of computation, information, and automation, encompassing both theoretical and applied disciplines."
+What is the foundation?,"It's the foundation of all computing disciplines, including machine learning, natural language processing, computing systems, networking, operating systems, AI, and human factors."
+What is I. Core areas?,"I. Core areas of computer science
+Algorithms and Data Structures: Develops and analyzes procedures for solving computational problems, focusing on efficiency and resource use."
+What is Computer Architecture?,"Computer Architecture and Organization: Explores the design and structure of computer systems, including hardware components like CPU, memory, and I/O devices."
+What is Operating Systems?,"Operating Systems (OS): Manages computer hardware, software resources, and provides common services for computer programs, acting as the interface between the user and the computer hardware."
+What is Database Management Systems?,"Database Management Systems (DBMS): Focuses on storing, retrieving, and managing large amounts of data efficiently and securely."
+What is Computer Networks?,"Computer Networks and Communication: Deals with the interconnectedness of computers and devices, enabling communication and resource sharing."
+What is Programming Languages?,"Programming Languages: Study of different ways to describe computational processes, including syntax, data types, control structures, and functions."
+What is Software Engineering?,"Software Engineering: Applies engineering principles to software development, ensuring high-quality, affordable, maintainable, and fast development."
+What is Theoretical Computer Science?,"Theoretical Computer Science: Investigates the limits of computation, including formal languages, automata theory, and computability."
+What is Artificial Intelligence?,"Artificial Intelligence (AI) and Machine Learning (ML): Develops systems that mimic human intelligence, encompassing areas like problem-solving, decision-making, and pattern recognition."
+What is computer systems?,"Cybersecurity: Focuses on protecting computer systems, networks, and data from unauthorized access, cyberattacks, and data breaches."
+"What is Key concepts and topics
+A. Algorithms and data structures
+This section?","Key concepts and topics
+A. Algorithms and data structures
+This section covers the organization and storage of data (data structures like arrays and trees) and step-by-step procedures for problem-solving (algorithms like sorting and searching)."
+What is algorithm efficiency?,It also includes evaluating algorithm efficiency using complexity analysis (Big O Notation).
+What is B. Programming languages?,"B. Programming languages and techniques
+This area focuses on the tools used to implement algorithms and build software (languages like Python, Java, C++, JavaScript)."
+What is fundamental concepts?,"It includes fundamental concepts such as syntax, variables, data types, control structures, and functions, as well as different programming paradigms (imperative, object-oriented, functional, etc.)."
+What is C. Computer organization?,"C. Computer organization and architecture
+This section explores the physical components of a computer (hardware) and the programs that run on them (software)."
+What is Key concepts?,"Key concepts include the use of Boolean logic for computer operations, different number systems (binary, decimal, hexadecimal), and character encoding schemes (ASCII, Unicode)."
+What is D. Operating systems?,"D. Operating systems
+Operating systems manage computer resources."
+"What is memory allocation, scheduling and synchronizing processes?","This includes managing memory allocation, scheduling and synchronizing processes, handling file systems and I/O operations, and managing secondary storage."
+What is Different types?,"Different types of operating systems exist, such as batch, multiprogramming, and real-time systems."
+What is E. Database management systems?,"E. Database management systems
+This section covers the principles of organizing and managing data."
+What is relational databases?,"It includes relational databases and concepts like SQL and normalization, as well as NoSQL databases."
+What is data integrity?,Ensuring data integrity and consistency through transactions and concurrency control is also a key topic.
+What is Other significant areas?,"Other significant areas
+Other notable areas include web development, cloud computing, mobile application development, and the ethical and social implications of technology."
